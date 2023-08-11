@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+
+}
+
+div {
+    border-top: 1px solid #d5d5d5;
+    text-align: center;
+    padding: 50px;
+
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    font-family: 'Tahoma', sans-serif;
+
+}
+
+h2 {
+
+    font-family: 'tahoma', sans-serif;
+
+    text-align: center;
+}
+
+h3 {
+    font-family: 'tahoma', sans-serif;
+    text-align: center;
+}
+
+p {
+
+    font-family: 'tahoma', sans-serif;
+    margin: 15px auto 30px auto;
+    line-height: 28px;
+    text-align: center;
+    width: 850px;
+    text-align: center;
+}
+
+img {
+
+    width: 190px;
+}
+
+span {
+    font-family: 'tahoma', sans-serif;
+    font-weight: bold;
+}
+
+a {
+    font-size: 14px;
+    font-family: 'tahoma', sans-serif;
+    color: white;
+    background-color: rgb(87, 241, 87);
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
